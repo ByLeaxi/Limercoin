@@ -1,2 +1,11 @@
-# Limercoin
-Limer Coin Auto Game Play Bot
+# Limercoin #Beta
+LimerCoin Auto Game Play Bot #Beta
+
+Video : <iframe width="560" height="315" src="https://www.youtube.com/embed/E4RmfW8Ypq0?si=eLHMUNis1NKgimPG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+Oynuyabildiği Oyunlar 
+COIN CATCHER (oynuyor)
+MATCH-3 COIN PUZZLE (Oynuyamıyor)
+CRYPTO 2048 (Oynuyor)
+
+Bot Şuanda Beta pek ilgilenemiyorum Zaten İlgilensem bile oyun oynuyarak para kazandırıcak bir site değil o yüzden Pek umrumdada değil aslında 
