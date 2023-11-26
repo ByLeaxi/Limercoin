@@ -1,7 +1,7 @@
 # Limercoin #Beta
 LimerCoin Auto Game Play Bot #Beta
 
-Video : <iframe width="560" height="315" src="https://www.youtube.com/embed/E4RmfW8Ypq0?si=eLHMUNis1NKgimPG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+Video : https://www.youtube.com/watch?v=E4RmfW8Ypq0
 
 Oynuyabildiği Oyunlar 
 COIN CATCHER (oynuyor)
