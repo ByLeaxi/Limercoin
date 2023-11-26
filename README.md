@@ -21,7 +21,9 @@ Bot şu anda beta aşamasında ve pek ilgilenemiyorum. Zaten ilgilensem bile oyu
 
 # Limercoin #Beta
 
-![GitHub Logo](https://raw.githubusercontent.com/ByLeaxi/Limercoin/main/phto/ss1.jpg)
+![ff](https://raw.githubusercontent.com/ByLeaxi/Limercoin/main/phto/ss1.jpg)
+
+![ww](https://views.whatilearened.today/views/github/ByLeaxi/Limercoin.svg)
 
 LimerCoin Auto Game Play Bot #Beta
 
