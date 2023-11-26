@@ -1,5 +1,5 @@
 # Limercoin #Beta
-
+https://raw.githubusercontent.com/ByLeaxi/Limercoin/main/phto/ss1.jpg
 LimerCoin Auto Game Play Bot #Beta
 
 [Video](https://www.youtube.com/watch?v=E4RmfW8Ypq0)
