@@ -1,7 +1,8 @@
 # Limercoin #Beta
 
-![GitHub Logo](https://raw.githubusercontent.com/ByLeaxi/Limercoin/main/phto/ss1.jpg)
-![GitHub Logo](https://views.whatilearened.today/views/github/ByLeaxi/Limercoin.svg))
+![ff](https://raw.githubusercontent.com/ByLeaxi/Limercoin/main/phto/ss1.jpg)
+
+![ww](https://views.whatilearened.today/views/github/ByLeaxi/Limercoin.svg)
 
 LimerCoin Auto Game Play Bot #Beta
 
