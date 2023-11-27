@@ -6,6 +6,8 @@
 
 LimerCoin Auto Game Play Bot #Beta
 
+![Discord ](https://discord.gg/7WAe2ySZNN)
+
 [Video](https://www.youtube.com/watch?v=E4RmfW8Ypq0)
 
 Oynayabildiği Oyunlar:
@@ -26,6 +28,8 @@ Bot şu anda beta aşamasında ve pek ilgilenemiyorum. Zaten ilgilensem bile oyu
 ![ww](https://views.whatilearened.today/views/github/ByLeaxi/Limercoin.svg)
 
 LimerCoin Auto Game Play Bot #Beta
+
+![Discord ](https://discord.gg/7WAe2ySZNN)
 
 [Video](https://www.youtube.com/watch?v=E4RmfW8Ypq0)
 
