@@ -2,6 +2,8 @@ import pyautogui
 import time
 import os
 import cv2
+import random
+import keyboard
 import numpy as np
 
 input("Başlıyoruz (Enter'a basın.)")
@@ -58,9 +60,10 @@ def perform_actions():
 
         time.sleep(3)
         
-        play_location = pyautogui.locateOnScreen(play_image_path, confidence=0.8)
-        if play_location:
-            px, py = pyautogui.center(play_location)
+        play_locations = list(pyautogui.locateAllOnScreen(play_image_path, confidence=0.8))
+        if play_locations:
+            random_location = random.choice(play_locations)
+            px, py = pyautogui.center(random_location)
             pyautogui.click(px, py)
         else:
             print("Play düğmesi bulunamadı.")
@@ -77,7 +80,7 @@ def perform_actions():
     if second_location:
         print("(COIN CATCHER) Oynanıyor ")
         time.sleep(1)
-        start = pyautogui.locateOnScreen(start_image_path, confidence=0.6)
+        start = pyautogui.locateOnScreen(start_image_path, confidence=0.8)
         if start:
             px, py = pyautogui.center(start)
             pyautogui.click(px, py)
@@ -118,6 +121,10 @@ def perform_actions():
         pass
     elif fourth_location:
         print("(2048) Oynanıyor ")
+        start = pyautogui.locateOnScreen(start_image_path, confidence=0.8)
+        if start:
+            px, py = pyautogui.center(start)
+            pyautogui.click(px, py)
         while True:
             movements = ['right', 'down', 'left', 'up']
     
